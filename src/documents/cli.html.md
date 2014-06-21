@@ -1,7 +1,6 @@
 ---
 title: "Freight Command Line Documentation"
 layout: "main"
-isPage: true
 ---
 
 ### Getting Started

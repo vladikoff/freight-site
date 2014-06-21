@@ -1,7 +1,6 @@
 ---
 title: "Freight Server Documentation"
 layout: "main"
-isPage: true
 ---
 
 ### Server Setup

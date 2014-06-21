@@ -1,0 +1,21 @@
+{
+  "name": "freight-site",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "docpad run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docpad": "~6.69.0",
+    "docpad-plugin-handlebars": "~2.3.0",
+    "docpad-plugin-livereload": "~2.6.0",
+    "docpad-plugin-marked": "vladikoff/docpad-plugin-marked#39cc54a0856",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-sass": "~0.8.0",
+    "node-sass": "~0.7.0"
+  }
+}
